@@ -1,5 +1,11 @@
 # Urban Routes – Regression & Functional Testing Project
 
+## 🗓️ Execution Period
+
+- **Project Type:** QA Bootcamp Project (TripleTen LatAm)
+- **Execution Window:** January 2025
+- **Status:** Completed
+
 ## 📌 Project Overview
 
 This project focuses on **manual functional and regression testing** of the **map and navigation features** of the *Urban Routes* web application.
